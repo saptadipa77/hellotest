@@ -1,0 +1,2 @@
+# hellotest
+setting up git
